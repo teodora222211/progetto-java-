@@ -1,3 +1,4 @@
+package progetto1;
 public class Oggetto {
     public String nome;
 

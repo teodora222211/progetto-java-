@@ -1,3 +1,4 @@
+package progetto1;
 public class Lista {
     private Nodo head;
     private int elementi;
